@@ -3,7 +3,7 @@ public class Main {
       Matriz matriz = new Matriz();
       Arvore arvore = new Arvore();
 
-      matriz.readFile("grafo3.txt");
+      matriz.readFile("grafo.txt");
       matriz.exibir();
 
       System.out.println();
